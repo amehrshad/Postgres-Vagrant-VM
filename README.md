@@ -11,7 +11,7 @@
 1. Run GitBash or another CommandPromt
 2. Go to the folder of "Vagrantfile"
 3. Run the Command in CommandPromt "vagrant up"
-4. After Installation you will get all the Information about Username and Pass and IP of VMM
+4. After Installation you will get all the Information about Username and Pass and IP of VM
 
 ## good to know
 * to start use "vagrant up"
