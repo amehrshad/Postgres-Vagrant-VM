@@ -13,7 +13,7 @@
 3. Run the Command in CommandPromt "vagrant up"
 4. After Installation you will get all the Information about Username and Pass and IP of VM
 
-## good to know
+## Good to know
 * to start use "vagrant up"
 * To turn of the virtual machine you can use "vagrant halt --force"
 * To remove all data  of VM you can use "vagrant destroy"
