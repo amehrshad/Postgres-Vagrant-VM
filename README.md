@@ -20,13 +20,13 @@
 
 
 ## Configure the Windows Firewall to allow incoming connections to PostgreSQL: https://bit.ly/3rHuyxe
-1 Launch Windows Control Pane.
-2 Open Windows Defender Firewall.
-3 Click Advanced settings on the left-hand side of the window.
-4 Click Inbound Rules on the left-hand side of the window.
-5 Click New Rule on the right-hand side of the window.
-6 Select Port as the type of rule and click Next.
-7 Select TCP as the protocol and enter 5432 as the port number. Click Next.
-8 Select Allow the connection and click Next.
-9 Select the network types for which the rule should apply (Domain, Private, or Public). Click Next.
-10 Enter a name and description for the rule and click Finish.
+1. Launch Windows Control Pane.
+2. Open Windows Defender Firewall.
+3. Click Advanced settings on the left-hand side of the window.
+4. Click Inbound Rules on the left-hand side of the window.
+5. Click New Rule on the right-hand side of the window.
+6. Select Port as the type of rule and click Next.
+7. Select TCP as the protocol and enter 5432 as the port number. Click Next.
+8. Select Allow the connection and click Next.
+9. Select the network types for which the rule should apply (Domain, Private, or Public). Click Next.
+10. Enter a name and description for the rule and click Finish.
